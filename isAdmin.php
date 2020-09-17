@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: WP isAdmin
-Plugin URI: https://blainemoore.com
+Plugin URI: https://github.com/BlaineMoore/wp-isadmin
 Description: This plugin provides provides a simple short code to add or hide custom content to your posts and pages based on whether a user is an administrator or not.
 Version: 1.0
 Author: Blaine Moore
