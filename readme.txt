@@ -1,5 +1,6 @@
 === WP isAdmin ===
 Contributors: blaine-moore
+Donate link: https://www.charitynavigator.org/index.cfm?bay=search.summary&orgid=7614
 Tags: shortcode
 Requires at least: 4.7
 Tested up to: 5.5.1
@@ -40,5 +41,15 @@ it will work as expected. If you specify both, then the *roles* attribute takes 
 
 == Changelog ==
 
-= 1.0 (2020-09-17)=
+= 1.0.1 (2020-09-17)=
 * Initial Version
+
+== Upgrade Notice ==
+
+= 1.0.1 =
+This is the initial version. You need this for any functionality at all.
+
+== Screenshots ==
+
+1. A simple example for how to use the shortcodes.
+2. An example that includes a javascript redirect for WishListMember private tags, which still allows the admin user to stay on the page.
